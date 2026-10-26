@@ -1,0 +1,13 @@
+# large data and outputs: kept locally, never on GitHub
+data/meg/
+prepared_data/
+results/
+figs/
+
+# personal paths
+config_paths_local.m
+
+# MATLAB and macOS leftovers
+*.asv
+*.m~
+.DS_Store
